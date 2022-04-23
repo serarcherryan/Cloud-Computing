@@ -35,8 +35,7 @@ if current_key == key:
     res.append([current_key, len(current_values)])
     current_values = set()
 
-#sort
-res.sort(key=lambda x:x[1], reverse=True)
+# print
 for each in res:
     print '%s\t%s' % (each[0], each[1])
 
