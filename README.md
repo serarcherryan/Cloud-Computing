@@ -17,7 +17,7 @@ Put your input data([mr.data](http://soudeh.net/teaching/cloud/files/mr.data)) i
 Finally you can successfully run the *run-all.sh*.
 
 ## Option2
-For convenience, You can also download the whole project on the shared [Google Drive](https://drive.google.com/drive/folders/1v-uoC5hbrrWS6ClHBFnhx52hznlrBfG4?usp=sharing).
+For convenience, You can also download the whole project on the shared [Google Drive](https://drive.google.com/file/d/1YJQ1eJgdAhDF_5VfRq3AS6xTM45r0Im6/view?usp=sharing).
 
 In this way, after you initialize the HDFS, you just need to start the hadoop under */hadoop* with the following commands:
 ```
